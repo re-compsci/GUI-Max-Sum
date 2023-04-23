@@ -1,1 +1,1 @@
-"# Max-Sum" 
+"# GUI Max-Sum" 
